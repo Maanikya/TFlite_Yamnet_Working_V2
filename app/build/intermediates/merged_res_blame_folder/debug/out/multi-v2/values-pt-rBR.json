@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "D:\\My Personal\\8CS2\\Major Project\\Android App\\TFlite_Yamnet_Working_V2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\maani\\.gradle\\caches\\transforms-3\\5babfe919ab855111603c29774482c4a\\transformed\\navigation-ui-2.3.5\\res\\values-pt-rBR\\values-pt-rBR.xml",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\maani\.gradle\caches\transforms-3\77df49b1cf290cdd7f5a2d9d519b5ebe\transformed\viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\maani\.gradle\caches\transforms-3\47cbcae466a0b4754e730d3c45127d8a\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\maani\.gradle\caches\transforms-3\483256be2345dc3e5d3a2abe92d69080\transformed\fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
@@ -61,29 +61,29 @@ MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] C:\Users\maani\.g
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\maani\.gradle\caches\transforms-3\c7d30947f0c4c414ad9aa2d60ff00fe2\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\maani\.gradle\caches\transforms-3\914649a9cad406e5ebc05e1ae461660b\transformed\tensorflow-lite-api-2.8.0\AndroidManifest.xml:2:1-12:12
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\maani\.gradle\caches\transforms-3\935c0d75c7c5169b68cd7a4847eed121\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
 	package
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:18:5-49
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:18:5-49
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:11-69
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:20:5-71
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:20:5-71
 	android:name
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:20:22-68
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:20:22-68
 application
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:22:5-40:19
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:22:5-40:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\maani\.gradle\caches\transforms-3\267219a71fb69cfd6f472fb98bc5eedd\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\maani\.gradle\caches\transforms-3\267219a71fb69cfd6f472fb98bc5eedd\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\maani\.gradle\caches\transforms-3\a442693322d28703e3aeef43ea2f13d1\transformed\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -101,41 +101,41 @@ MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\maani\.gradle\c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] C:\Users\maani\.gradle\caches\transforms-3\c6805e35222e8ed9e5fcb2d0220b387d\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:27:9-35
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:27:9-35
 	android:label
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:25:9-41
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:25:9-41
 	android:roundIcon
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:26:9-54
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:26:9-54
 	android:icon
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:24:9-43
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:24:9-43
 	android:allowBackup
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:23:9-35
 	android:theme
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:29:9-40
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:29:9-40
 	android:taskAffinity
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:28:9-32
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:28:9-32
 activity#org.tensorflow.lite.examples.audio.MainActivity
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:30:9-39:20
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:30:9-39:20
 	android:screenOrientation
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:33:13-49
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:33:13-49
 	android:exported
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:32:13-36
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:31:13-75
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:31:13-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:34:13-38:29
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:35:17-69
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:35:25-66
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:37:17-77
+ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:37:27-74
 uses-sdk
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\maani\.gradle\caches\transforms-3\77df49b1cf290cdd7f5a2d9d519b5ebe\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\maani\.gradle\caches\transforms-3\77df49b1cf290cdd7f5a2d9d519b5ebe\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] C:\Users\maani\.gradle\caches\transforms-3\47cbcae466a0b4754e730d3c45127d8a\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -248,20 +248,20 @@ MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\maani\.gradle\ca
 MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] C:\Users\maani\.gradle\caches\transforms-3\914649a9cad406e5ebc05e1ae461660b\transformed\tensorflow-lite-api-2.8.0\AndroidManifest.xml:7:5-8:41
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\maani\.gradle\caches\transforms-3\935c0d75c7c5169b68cd7a4847eed121\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\maani\.gradle\caches\transforms-3\935c0d75c7c5169b68cd7a4847eed121\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		MERGED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		ADDED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		MERGED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+IMPLIED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+IMPLIED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\My Personal\8CS2\Major Project\Android App\audio_classification_working\android\app\src\main\AndroidManifest.xml:17:1-42:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\My Personal\8CS2\Major Project\Android App\TFlite_Yamnet_Working_V2\app\src\main\AndroidManifest.xml:17:1-42:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
