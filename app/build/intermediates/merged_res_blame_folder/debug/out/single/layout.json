@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_audio.xml",
+        "source": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\src\\main\\res\\layout\\fragment_audio.xml"
+    },
+    {
+        "merged": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\controls_bottom_sheet.xml",
+        "source": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\src\\main\\res\\layout\\controls_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_probability.xml",
+        "source": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\src\\main\\res\\layout\\item_probability.xml"
+    },
+    {
+        "merged": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\My Personal\\8CS2\\Major Project\\Android App\\audio_classification_working\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
